@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - definses the main purpose of the code
- * Return: gives a response
- */
+ *  * main - definses the main purpose of the code
+ *   * Return: gives a response
+ *    */
 
 /* betty style doc for function main goes there */
 int main(void)
