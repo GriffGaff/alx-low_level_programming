@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - main function
- * return: passes output
+ * Return: passes output
  */
 int main(void)
 {
