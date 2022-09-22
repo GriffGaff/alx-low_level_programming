@@ -20,5 +20,4 @@ void rev_string(char *s)
 		s[x] = s[y - x - 1];
 		s[y - x - 1] = tmp;
 	}
-
 }
