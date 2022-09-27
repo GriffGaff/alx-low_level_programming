@@ -1,0 +1,1 @@
+This directory displays 'even more pointers, arrays and strings'
